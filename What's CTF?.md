@@ -1,5 +1,5 @@
 # Understanding Catch The Flag / CTF
-> [!NOTE] 
+> [!IMPORTANT] 
 > These are from my lab works so they are not exactly complete.
 > Also, my expereience is not of professional level so please read this with that in mind.
 
