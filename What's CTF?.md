@@ -17,6 +17,8 @@ There's a rank system of some sort and there many organizations out there that h
 
 Some orgs includes: Carnegie Mellon University's [PicoCTF](https://www.picoctf.org/), Hack The Box's [HTB CTF](https://ctf.hackthebox.com/events/upcoming), Google's [CTF with Google](https://capturetheflag.withgoogle.com/) <br /> and many more!
 
+Learn more from [Infosec Train](https://www.infosectrain.com/blog/a-beginners-guide-to-capture-the-flag-ctf-hacking/)
+
 ## [Virgina Cyber Range](https://www.virginiacyberrange.org/) CTF
 This VA Cyber Range is the one provided by our college. They have various VMs and target systems for us test our skills and labs.<br />
 The CTF I will be doing is what they called "Cloud CTF".<br />
