@@ -14,5 +14,5 @@ Each categories has 5-6 challenges that's worth some points depending on the dif
 My class only required 300 pts, but in total, the CTF is 700 pts. So While there were 6 categories, I only did some of Cryptography, Networking and Reverse Engineering.
 
 
-Disclaimer: This is not a how-to but more so how I did it.
+Disclaimer: This is not a how-to but more so how I did it. :v:
 
