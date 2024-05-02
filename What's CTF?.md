@@ -5,6 +5,7 @@
 
 ## Catch The Flag or CTF
 I only found about "CTFs" from browsing through Youtube videos on how to build skills if I wanted a career in cybersecurity. <br />
+
 CTF challenges were one of the many suggestions.
 CTFs are basically a gamified and digitalized type of catching a "flag". Kumbaga, tagu-taguan/hide-and-seek, the seeker is the user/you/me, and the flag is hiding in whatever code, program, or software it is inside in.
 <br />
