@@ -15,6 +15,8 @@ The whole goal is to be able to catch the "flag" within a certain amount of time
 Most CTFs are time-based and winners are whovever finshed all the challenges first, or "paunahan". <br />
 There's a rank system of some sort and there many organizations out there that host these type of competition.<br />
 
+Some orgs includes: Carnegie Mellon University's [PicoCTF](https://www.picoctf.org/), Hack The Box's [HTB CTF](https://ctf.hackthebox.com/events/upcoming), Google's [CTF with Google](https://capturetheflag.withgoogle.com/) <br /> and many more!
+
 ## [Virgina Cyber Range](https://www.virginiacyberrange.org/) CTF
 This VA Cyber Range is the one provided by our college. They have various VMs and target systems for us test our skills and labs.<br />
 The CTF I will be doing is what they called "Cloud CTF".<br />
