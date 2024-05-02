@@ -1,4 +1,4 @@
-# Understanding Catch The Flag / CTF
+# Understanding Catch The Flag / CTF :triangular_flag_on_post:
 > [!IMPORTANT] 
 > These are from my lab works so they are not exactly complete.<br />
 > Also, my expereience is not of professional level so please read this with that in mind.
