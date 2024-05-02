@@ -1,7 +1,7 @@
 # Understanding Catch The Flag / CTF :triangular_flag_on_post:
 > [!IMPORTANT] 
 > These are from my lab works so they are not exactly complete.<br />
-> Also, my expereience is not of professional level so please read this with that in mind.
+> Also, my expereience is not of professional level so please read this with that in mind. :sweat_smile:
 
 ## Catch The Flag or CTF
 I only found about "CTFs" from browsing through Youtube videos on how to build skills if I wanted a career in cybersecurity. <br />
