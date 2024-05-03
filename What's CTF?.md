@@ -28,5 +28,5 @@ I will insert images if I can.<br />
 Cloud CTF is basically the CTF challenge VA Cyber Range has, I believe they change some of these time to time but I have seen similar challenges from prior users so take what I said with a grain of salt.<br />
 
 > [!NOTE] 
-> These are mostly opnionated and again, unprofessionally done.<br />
+> These are mostly opnionated and again, unprofessionally done. <br /> 
 > There may be other ways of determining the flags but again, I just did what I could do.
